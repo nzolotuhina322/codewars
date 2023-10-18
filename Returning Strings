@@ -1,0 +1,8 @@
+function greet(name){
+  //your code here
+    return "Hello, " + name + " how are you doing today?";
+}
+var name = "John";
+var greeting = greet(name);
+console.log(greeting); // This will log "Hello, John how are you doing today?" to the console
+
